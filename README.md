@@ -22,7 +22,7 @@ Los apuntes están organizados por temas que se cubrieron en el curso:
 
 ## Uso
 
-Si estás estudiando el curso o simplemente deseas repasar los conceptos clave, siéntete libre de explorar los archivos de cada tema. Cada archivo contiene una mezcla de teoría, ejemplos prácticos y tips que me parecieron relevantes durante el curso.
+Si estás estudiando el curso o simplemente deseas repasar los conceptos clave, siéntete libre de explorar los archivos de cada tema. Cada archivo contiene una mezcla de teoría, ejemplos prácticos y tips que me parecieron relevantes durante el curso. Se usó un archivo .csv propio, distinto al usado en el curso.
 
 ## Contribuciones
 
